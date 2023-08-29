@@ -36,10 +36,6 @@ Contribuições são bem-vindas! Se você deseja melhorar este projeto, siga est
 4. Envie para o branch principal: `git push origin nova-funcionalidade`.
 5. Envie um Pull Request para revisão.
 
-## Créditos
-
-Este projeto foi desenvolvido por [Vinicius Chiazza] e é distribuído sob a [Alura](./LICENSE) XYZ.
-
 ## Contato
 
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato via [e-mail](mailto:viniciuschiazza@gmail.com) ou pelas redes sociais:
