@@ -10,4 +10,5 @@ Projeto de um temporizador web, tanto para estudo, quanto para descanso, com tr√
 | :fire: Curso         | Javascript Manipulando o DOM
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![]<img src "./readmeimagens/projetofokus.jpeg"#vitrinedev>
+![Imagem do Projeto Fokus](./readmeimagens/projetofokus.jpeg)
+
