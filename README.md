@@ -7,7 +7,7 @@ Projeto de um temporizador web, tanto para estudo, quanto para descanso, com tr√
 | :sparkles: Nome        | Fokus
 | :label: Tecnologias | javascript, CSS, HTML
 | :rocket: URL         | https://viniciuschiazza.github.io/projetoFokus/
-| 
+| :fire: Curso         | Javascript Manipulando o DOM
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![]https://drive.google.com/file/d/1bSRq6x_7hZbfLTyRJPo6MwSaK0VIxMge/view#vitrinedev
+![]<img src "./readmeimagens/projetofokus.jpeg"#vitrinedev>
